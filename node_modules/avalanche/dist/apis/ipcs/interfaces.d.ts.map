@@ -1,0 +1,1 @@
+{"version":3,"file":"interfaces.d.ts","sourceRoot":"","sources":["../../../../src/apis/ipcs/interfaces.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,MAAM,WAAW,wBAAwB;IACvC,YAAY,EAAE,MAAM,CAAA;CACrB;AAED,MAAM,WAAW,0BAA0B;IACzC,YAAY,EAAE,MAAM,CAAA;CACrB;AAED,MAAM,WAAW,0BAA0B;IACzC,YAAY,EAAE,MAAM,CAAA;IACpB,YAAY,EAAG,MAAM,CAAA;CACtB"}
